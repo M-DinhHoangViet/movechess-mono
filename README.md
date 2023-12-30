@@ -1,4 +1,4 @@
-# Movechess mono repository
+# Movechess mono repository.
 
 ## How to install
 
